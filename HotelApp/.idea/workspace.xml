@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="412a0902-8c10-482d-96a5-6c1fe962905e" name="Changes" comment="first" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="CSS File" />
+        <option value="TypeScript File" />
+        <option value="HTML File" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "dangdinhdan"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/dangdinhdan/Hotelapp.git",
+    "accountId": "c9a813b5-3f59-4a41-8834-1cf60914bcc9"
+  }
+}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2uuQ3mA1hpzLDVikGZ9bqCvImHd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HelloApplication.executor": "Run",
+    "Application.HotelLogin.executor": "Run",
+    "Application.Room.executor": "Run",
+    "Application.Unnamed.executor": "Run",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ASUS/IdeaProjects/HotelLoginApp",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\IdeaProjects\HotelLoginApp\src\main\resources\com\example\hotelloginapp" />
+      <recent name="C:\Users\ASUS\IdeaProjects\HotelLoginApp\src\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\IdeaProjects\HotelLoginApp\src\main\resources\com\example\hotelloginapp\assets\css" />
+      <recent name="C:\Users\ASUS\IdeaProjects\HotelLoginApp\src\main\java\com\example\hotelloginapp" />
+      <recent name="C:\Users\ASUS\IdeaProjects\HotelLoginApp\src\view" />
+      <recent name="C:\Users\ASUS\IdeaProjects\HotelLoginApp\src\main\java" />
+      <recent name="C:\Users\ASUS\IdeaProjects\HotelLoginApp\src\main\java\com\example" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.hotelloginapp" />
+      <recent name="" />
+      <recent name="com.example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HelloApplication">
+    <configuration name="HelloApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.hotelloginapp.HelloApplication" />
+      <module name="HotelLoginApp" />
+      <option name="PROGRAM_PARAMETERS" value="--enable-native-access=javafx.graphics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Room" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.example.hotellogin.Room" />
+      <module name="HotelLoginApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.hotelloginapp.HelloApplication" />
+      <module name="HotelLoginApp" />
+      <option name="PROGRAM_PARAMETERS" value="--enable-native-access=javafx.graphics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HelloApplication" />
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.Room" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="412a0902-8c10-482d-96a5-6c1fe962905e" name="Changes" comment="" />
+      <created>1743095792229</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743095792229</updated>
+      <workItem from="1743095793266" duration="297000" />
+      <workItem from="1743096309419" duration="60000" />
+      <workItem from="1743096396610" duration="119000" />
+      <workItem from="1743096546244" duration="7000" />
+      <workItem from="1743096679657" duration="596000" />
+      <workItem from="1743097293953" duration="17000" />
+      <workItem from="1743097335276" duration="1875000" />
+      <workItem from="1743346096441" duration="1489000" />
+      <workItem from="1743442530048" duration="4959000" />
+      <workItem from="1743674351920" duration="2762000" />
+      <workItem from="1743786615581" duration="5422000" />
+      <workItem from="1744126426647" duration="1271000" />
+      <workItem from="1744448684992" duration="1280000" />
+      <workItem from="1744536964944" duration="7158000" />
+      <workItem from="1744717294105" duration="17892000" />
+      <workItem from="1744798074214" duration="21680000" />
+      <workItem from="1744860185643" duration="3464000" />
+      <workItem from="1744868488416" duration="7206000" />
+      <workItem from="1744877103929" duration="2364000" />
+      <workItem from="1745074483413" duration="9164000" />
+      <workItem from="1745337927516" duration="4396000" />
+      <workItem from="1745389656149" duration="4348000" />
+      <workItem from="1745410772664" duration="4150000" />
+      <workItem from="1745747629555" duration="601000" />
+      <workItem from="1746197999840" duration="8776000" />
+      <workItem from="1746284973838" duration="7038000" />
+      <workItem from="1746445437752" duration="21000" />
+      <workItem from="1746446124890" duration="1373000" />
+      <workItem from="1747224547475" duration="18627000" />
+      <workItem from="1747386131308" duration="10053000" />
+      <workItem from="1747471208805" duration="17199000" />
+      <workItem from="1748069293534" duration="1601000" />
+      <workItem from="1748142676678" duration="21653000" />
+      <workItem from="1748240829686" duration="18354000" />
+      <workItem from="1748262592857" duration="9925000" />
+    </task>
+    <task id="LOCAL-00001" summary="first">
+      <option name="closed" value="true" />
+      <created>1748277439010</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1748277439010</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/hotelloginapp/controller/HoaDonController.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/hotelloginapp/controller/HotelController.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="currentUser" language="JAVA" />
+        <watch expression="currentUser.getPhanCap()" />
+        <watch expression="RoleEnum.NHAN_VIEN.getValue()" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
