@@ -56,3 +56,6 @@
 
 - Báo cáo doanh thu, thống kê tình trạng sử dụng phòng.
 
+## Công nghệ sử dụng 
+- Java
+- 
