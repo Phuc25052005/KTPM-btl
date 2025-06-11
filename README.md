@@ -58,4 +58,5 @@
 
 ## Công nghệ sử dụng 
 - Java
-- 
+- CSS
+- Batchfile
