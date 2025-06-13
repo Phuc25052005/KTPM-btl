@@ -57,6 +57,8 @@
 - Báo cáo doanh thu, thống kê tình trạng sử dụng phòng.
 
 ## Công nghệ sử dụng 
-- Java
-- CSS
-- Batchfile
+- Phầm mềm hỗ trợ phân tích thiết kế hệ thống
+- Microsoft Word: Viết tài liệu đặc tả hệ thống
+- RAW.IO: Vẽ các biểu đồ Use case,Sequence,Activity và Class
+- Intellij idea: Viết source code backend 
+
