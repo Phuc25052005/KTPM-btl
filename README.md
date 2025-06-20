@@ -60,5 +60,5 @@
 - Phầm mềm hỗ trợ phân tích thiết kế hệ thống
 - Microsoft Word: Viết tài liệu đặc tả hệ thống
 - RAW.IO: Vẽ các biểu đồ Use case,Sequence,Activity và Class
-- Intellij idea: Viết source code backend 
+- Intellij idea: Viết source code backend và chạy demo app
 
