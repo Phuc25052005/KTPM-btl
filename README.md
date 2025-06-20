@@ -62,3 +62,5 @@
 - RAW.IO: Vẽ các biểu đồ Use case,Sequence,Activity và Class
 - Intellij idea: Viết source code backend và chạy demo app
 
+- Kết nối Intellij idea với database là Hotel.sql và chạy demo .
+
